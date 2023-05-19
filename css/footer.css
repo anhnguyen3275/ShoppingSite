@@ -1,0 +1,41 @@
+footer{
+    background-color: #F5F5F5;
+}
+
+.ft-title {
+    font-size: 13px;
+    line-height: 17.55px;
+    color: #111111;
+}
+
+.ft-content {
+    font-size: 14px;
+    font-weight: 500px;
+    line-height: 28px;
+    color: #555555;
+}
+
+.form-control {
+    background-color: #ffffff;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.ft-logo {
+    margin-bottom: 30px;
+}
+
+.ft-ic {
+    margin-top: 40px;
+    height: 30px;
+    padding-left: 10px;
+}
+
+.btn-sub {
+    color: #f1f0ed;
+    background-color: #111111;
+    border-radius: 30px;
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+  }
